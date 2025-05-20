@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sunny-dee-71
-- 👀 I’m interested in programming gtag mods
-- 🌱 I’m learnt c#
+[![sunny dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny-dee-71)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
